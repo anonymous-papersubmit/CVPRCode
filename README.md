@@ -45,7 +45,7 @@ The training and testing experiments are conducted using with a single NVIDIA Te
         logs/eval/gmaa/runs/%Y-%m-%d_%H-%M-%S
            └- test_asr                         # Attack Success Rate
            └- test_faceplusplus                # Face++ confidence score
-           └- test_vis                         # generated adversarial examples of test dataset
+           └- test_vis                         # Generated adversarial examples of test dataset
            └- ...
 ```
 
